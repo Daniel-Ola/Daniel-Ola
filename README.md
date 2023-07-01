@@ -29,3 +29,6 @@ My GitHub repositories showcase some exciting projects and contributions. I love
 If you're interested in any of my projects or just want to chat about technology, feel free to reach out. You can contact me via email at [danorelanre@gmail.com](mailto:danorelanre@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/oreoluwa-daniel/).
 
 Let's build the future together! 🚀✨
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Daniel-Ola)](https://git.io/streak-stats)
