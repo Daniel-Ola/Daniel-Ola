@@ -6,8 +6,8 @@ I'm a passionate Fullstack Engineer with over 4 years of experience in web and m
 
 ## Technologies and Frameworks
 
-- **Laravel** 🛠️: I enjoy building robust backend systems using Laravel, ensuring smooth server-side functionality for our applications.
 - **Gin (Golang)** 🎯: I am currently exploring the world of Go and building APIs with the Gin framework. It's an exciting journey!
+- **Laravel** 🛠️: I enjoy building robust backend systems using Laravel, ensuring smooth server-side functionality for our applications.
 - **Vue.js** 🌟: I love working with Vue.js to create responsive and interactive user interfaces for web applications.
 - **Flutter** 🚀: I'm proficient in developing beautiful and performant cross-platform mobile applications using Flutter.
 - **Node JS** 💆🏾‍♂️: Besides my primary tech stack, I currently exploring the posibilities of what I can build with NODE using the NEST Framework.
